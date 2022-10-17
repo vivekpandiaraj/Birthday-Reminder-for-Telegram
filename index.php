@@ -14,7 +14,7 @@
 <div class="row">
     <div class="col-md-4">
         <h1>Hai</h1>
-        <h2>hi</h2>
+      
     </div>
 </div>
 </div>
